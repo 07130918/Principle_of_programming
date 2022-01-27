@@ -1,4 +1,4 @@
-# Principle_of_programming
+# Principle of programming
 ## 前提
 - コード自体がドキュメントである
 - ソフトウェアは本質的に複雑であるため、完璧なものにはなりえない
